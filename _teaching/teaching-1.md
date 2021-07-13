@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research (by Area)"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
