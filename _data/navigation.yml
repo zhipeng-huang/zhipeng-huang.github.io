@@ -7,12 +7,12 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
 
   # - title: "Notes"
   #   url: /notes/    
     
-  - title: "Useful links"
+  - title: "Useful Links"
     url: /links/
 
   - title: "CV"
