@@ -6,11 +6,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Notes"
-    url: /notes/    
+  # - title: "Notes"
+  #   url: /notes/    
     
-  - title: "Links"
+  - title: "Useful links"
     url: /links/
 
-  - title: "Tests"
+  - title: "CV"
     url: /links/
