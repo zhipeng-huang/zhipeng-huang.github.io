@@ -10,19 +10,15 @@ redirect_from:
 {% include base_path %}
 
 
-ADMM
-======
-**Background:** ADMM (Alternating Direction Method of Multipliers) was 
-
-
-无序列表（加号和嵌套）Unordered Lists (+)
-======        
-+ 列表一
-+ 列表二
+Education
+====== 
++ Master of Science in Financial Engineering, The Chinese University of Hong Kong (Shenzhen)
++ Bachelor of Economics, Guangzhou University
+<!-- + 列表二
     + 列表二-1
     + 列表二-2
     + 列表二-3
 + 列表三
     * 列表一
     * 列表二
-    * 列表三
+    * 列表三 -->
