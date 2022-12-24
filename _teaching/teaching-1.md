@@ -8,7 +8,7 @@ author_profile: true
 - - -
 
 Teaching Assistant at CUHK-SZ
-======
+=======================================
 
 + **Spring 2021:** MFE5150 Financial Data Analysis, instructor: Prof. LI Lingfei (CUHK)
 
@@ -30,6 +30,6 @@ Teaching Assistant at CUHK-SZ
 - - -
 
 Instructor
-======
+==============
 
 Not yet.
