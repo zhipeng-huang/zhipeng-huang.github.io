@@ -15,7 +15,7 @@ ADMM
 **Background:** ADMM (Alternating Direction Method of Multipliers) was 
 
 
-#### 无序列表（加号和嵌套）Unordered Lists (+)
+无序列表（加号和嵌套）Unordered Lists (+)
 ======        
 + 列表一
 + 列表二
