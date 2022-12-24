@@ -10,9 +10,11 @@ author_profile: true
 Teaching Assistant at CUHK-SZ
 =======================================
 
++ **Fall 2021:** MFE5110 Stochastic Models, instructor: Prof. CHEN Nan (CUHK)
+
 + **Spring 2021:** MFE5150 Financial Data Analysis, instructor: Prof. LI Lingfei (CUHK)
 
-+ **Fall 2020:** STA4020 Statistical Modeling in Financial Market Instructor: Dr. John Wright (CUHK)
++ **Fall 2020, 2021:** STA4020 Statistical Modeling in Financial Market Instructor: Dr. John Wright (CUHK)
 
 + **Summer 2020:** MAT3007 Optimization 1, instructor: Prof. Andre Milzarek
 
