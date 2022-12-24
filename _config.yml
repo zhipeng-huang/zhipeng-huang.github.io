@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zhipeng HUANG"
   avatar           : "profile.png"
-  bio              : "Teaching assistant at The Chinese University of Hong Kong, Shenzhen"
-  location         : "Shenzhen, China"
+  bio              : "PhD candidate at Mathematical Institute of Utrehct University"
+  location         : "Utrecht, Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=om-tb5sAAAAJ&hl=zh-CN&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2028-0508"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
