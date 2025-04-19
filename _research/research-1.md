@@ -10,22 +10,13 @@ author_profile: true
 Research Interests
 ==================
 
-I am mainly interested in stochastic modelling and computational methods in financial mathematics. Currently, I am working on algorithms for general sotchastic control problems in finance.
+My research interests lie at the intersection of numerical methods and applied probability, with applications in finance, such as stochastic control, (F)BSDEs, stochastic modeling in financial markets and risk management, and scientific machine learning.
 
 
 - - -
 
 Publications
 ==================
-
-<!-- + Michael C.H. Choi, Zhipeng Huang,
-Generalized Markov chain tree theorem and Kemeny’s constant for a class of non-Markovian matrices,
-Statistics & Probability Letters,
-Volume 193,
-2023,
-109739,
-ISSN 0167-7152,
-https://doi.org/10.1016/j.spl.2022.109739. -->
 
 + Zhipeng Huang, and Cornelis W. Oosterlee. 
 Convergence of the Markovian iteration for coupled FBSDEs via a differentiation approach. 
@@ -44,5 +35,16 @@ Generalized Markov chain tree theorem and Kemeny’s constant for a class of non
 Statistics & Probability Letters 193 (2023): 109739.
 [https://doi.org/10.1016/j.spl.2022.109739](https://doi.org/10.1016/j.spl.2022.109739})
 
+
+
+
+Supervisions at Utrecht University
+==================
+
++ BSc Thesis: Henrik van de Langemheen, Feb - Jul, 2025\\
+Topic: The COS method for computing the first hitting time of polynomial processes 
+
++ MSc Seminar Project: Jochem Lange and Martijn Brouwer, Feb - Jun, 2024\\
+Topic: Uncovering the underlying dynamics from data using machine learning techniques
 
 
