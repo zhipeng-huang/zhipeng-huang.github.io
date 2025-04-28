@@ -18,7 +18,7 @@ Education
 Work experience
 ====== 
 + PhD candidate, Mathematical Institute of Utrecht University (Feb 2022 - until now)
-	+ Topic: Numerical Methods for Time-inconsistent Stochastic Control problems
+	+ Topic: Numerical Methods for Stochastic Control problems and FBSDEs
 	+ Promotor: Prof. Kees Oosterlee
 + Teaching Assistant, The Chinese University of Hong Kong (Shenzhen), Dec 2018 - Jan 2022
 
