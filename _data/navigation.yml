@@ -12,8 +12,11 @@ main:
   # - title: "Notes"
   #   url: /notes/    
     
-  - title: "Useful Links"
-    url: /links/
-
   - title: "CV"
     url: /cv/
+
+  - title: "Miscellaneous"
+    url: /links/
+
+  - title: "Contact"
+    url: /contact/
