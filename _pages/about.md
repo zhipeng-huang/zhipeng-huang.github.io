@@ -10,8 +10,7 @@ redirect_from:
 
 Welcome to my homepage! 
 
-I am Zhipeng Huang, a PhD student at the Mathematical Institute of Utrecht University in the Netherlands. 
+My name is Zhipeng Huang, and I am a PhD candidate at the Mathematical Institute of Utrecht University in the Netherlands. I am currently working with my supervisor, [Prof. Kees Oosterlee](https://www.uu.nl/staff/CWOosterlee), on developing numerical methods for stochastic control and FBSDEs.
 
-Before starting my PhD study in the Netherlands, I worked at the School of Science and Engineering and the School of Data Science at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ) from 2018 to 2022. I received my MSc in Financial Engineering from CUHK-SZ in 2018, and before CUHK-SZ, I got my bachelor's degree in Economics at Guangzhou University.
+Before starting my PhD studies in the Netherlands, I worked at the School of Science and Engineering and the School of Data Science at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ) from 2018 to 2022. Prior to that, I worked as a research assistant with [Prof. Michael Choi](https://mchchoi.github.io/). I received my MSc in Financial Engineering from CUHK-SZ and my bachelor's degree in Economics from Guangzhou University.
 
-I am interested in stochastic modelling, computational methods, and their application in financial engineering. My supervisor is Prof. Kees Oosterlee, and currently, we are working on developing numerical methods for (time-inconsistent) stochastic control problems.
