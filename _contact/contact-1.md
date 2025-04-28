@@ -1,15 +1,12 @@
 ---
 layout: archive
-title: "Links"
-permalink: /links/
+title: "Contact"
+permalink: /contact/
 author_profile: true
 ---
 
 - - -
 
-+ [Google Scholar](https://scholar.google.com/)
-+ [Math Stackexchange](https://math.stackexchange.com/)
-+ [Wolfamalpha online tools](https://www.wolframalpha.com/)
-+ [Geogebra](https://www.geogebra.org/)
+my contact
 
 

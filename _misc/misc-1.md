@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Links"
-permalink: /links/
+title: "Misc"
+permalink: /misc/
 author_profile: true
 ---
 
