@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+> "Die sich des Vergangenen nicht erinnern, sind dazu verurteilt, es noch einmal zu erleben."  
+> <div align="right">— George Santayana </div>
+
+
 Welcome to my homepage! 
 
 My name is Zhipeng Huang, and I am a PhD candidate at the Mathematical Institute of Utrecht University in the Netherlands. I am currently working with my supervisor, [Prof. Kees Oosterlee](https://www.uu.nl/staff/CWOosterlee), on developing numerical methods for stochastic control and FBSDEs.
