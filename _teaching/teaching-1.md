@@ -5,7 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-- - -
+
+> “The purpose of life is to discover your gift; the work of life is to develop it; and the meaning of life is to give your gift away.” 
+> <div align="right">—  David Viscott </div>
+
 
 Teaching Assistant at Utrecht University
 =======================================
