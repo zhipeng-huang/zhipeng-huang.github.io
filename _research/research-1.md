@@ -5,12 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-- - -
 
-> "The only limit to our realization of tomorrow is our doubts of today."  
-> <div align="right">— Franklin D. Roosevelt</div>
 
-- - -
+> “If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.”  
+> <div align="right">—  John von Neumann </div>
+
+
 
 Research Interests
 ==================
