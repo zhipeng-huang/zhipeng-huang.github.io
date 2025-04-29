@@ -7,7 +7,8 @@ author_profile: true
 
 - - -
 
-> Quotes are cool.
+> "The only limit to our realization of tomorrow is our doubts of today."  
+> <div align="right">— Franklin D. Roosevelt</div>
 
 - - -
 
